@@ -1,0 +1,27 @@
+_repo: Rebecca-Mary_3419
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Donnell, Annie Hamilton
+    birthdate: 1862
+    gutenberg_agent_id: '1192'
+    url: http://www.gutenberg.org/2009/agents/1192
+description: ''
+gutenberg_issued: '2002-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3419'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: The hundred and oneth -- The thousand quilt -- The Bible dream --
+  The cook-book diary -- The bereavement -- The feel doll -- The plummer kind -- Article
+  seven -- Un-plummered.
+title: Rebecca Mary
+url: http://www.gutenberg.org/ebooks/3419
